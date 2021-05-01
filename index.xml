@@ -1,4 +1,43 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jnds Web Site</title><link>https://jndsss.github.io/</link><description>Recent content on Jnds Web Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>This is a customized copyright.</copyright><lastBuildDate>Thu, 29 Apr 2021 23:06:31 +0800</lastBuildDate><atom:link href="https://jndsss.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://jndsss.github.io/posts/my-first-post/</link><pubDate>Thu, 29 Apr 2021 23:06:31 +0800</pubDate><guid>https://jndsss.github.io/posts/my-first-post/</guid><description>Jnds Web Site https://jndsss.github.io/posts/my-first-post/ -&lt;p>adfdfdfdf
-dfdasfdsafdsafsdf&lt;/p>
-&lt;p>dfdfdfdfdfdfdfdfdfdfddfdf&lt;/p>
-- https://jndsss.github.io/posts/my-first-post/ - This is a customized copyright.</description></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jnds Web Site</title>
+    <link>https://jndsss.github.io/</link>
+    <description>Recent content on Jnds Web Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This is a customized copyright.</copyright>
+    <lastBuildDate>Sat, 01 May 2021 15:37:35 +0800</lastBuildDate>
+    
+        <atom:link href="https://jndsss.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>开一个新坑</title>
+        <link>https://jndsss.github.io/posts/20210501%E5%BC%80%E4%B8%80%E4%B8%AA%E6%96%B0%E5%9D%91/</link>
+        <pubDate>Sat, 01 May 2021 15:37:35 +0800</pubDate>
+        
+        <guid>https://jndsss.github.io/posts/20210501%E5%BC%80%E4%B8%80%E4%B8%AA%E6%96%B0%E5%9D%91/</guid>
+        <description>Jnds Web Site https://jndsss.github.io/posts/20210501%E5%BC%80%E4%B8%80%E4%B8%AA%E6%96%B0%E5%9D%91/ -&lt;p&gt;最近又重新了开始听《内核恐慌》，感觉这辈子做不了程序员，总还可以意淫意淫。&lt;/p&gt;
+&lt;p&gt;听了第三期，静态网页生成器之后，我也开始折腾了，用Mweb写blog，用hugo生产静态网页，用github的pages发布。&lt;/p&gt;
+&lt;p&gt;说实话，我真的好喜欢这样的折腾啊，就像播客里说的一样，我们享受的是折腾的乐趣。整个系统搭建完毕之后，估计一个月难得更新一次。&lt;/p&gt;
+- https://jndsss.github.io/posts/20210501%E5%BC%80%E4%B8%80%E4%B8%AA%E6%96%B0%E5%9D%91/ - This is a customized copyright.</description>
+        </item>
+    
+    
+    
+        <item>
+        <title>My First Post</title>
+        <link>https://jndsss.github.io/posts/my-first-post/</link>
+        <pubDate>Thu, 29 Apr 2021 23:06:31 +0800</pubDate>
+        
+        <guid>https://jndsss.github.io/posts/my-first-post/</guid>
+        <description>Jnds Web Site https://jndsss.github.io/posts/my-first-post/ -&lt;p&gt;adfdfdfdf
+dfdasfdsafdsafsdf&lt;/p&gt;
+&lt;p&gt;dfdfdfdfdfdfdfdfdfdfddfdf&lt;/p&gt;
+- https://jndsss.github.io/posts/my-first-post/ - This is a customized copyright.</description>
+        </item>
+    
+    
+  </channel>
+</rss> 
