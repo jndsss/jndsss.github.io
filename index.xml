@@ -6,9 +6,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
-    <lastBuildDate>Sat, 01 May 2021 15:37:35 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jan 2023 23:19:59 +0800</lastBuildDate>
     
         <atom:link href="https://jndsss.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>Mac上三款小众的宝藏免费软件推荐</title>
+        <link>https://jndsss.github.io/posts/mac-app/</link>
+        <pubDate>Sat, 07 Jan 2023 23:19:59 +0800</pubDate>
+        
+        <guid>https://jndsss.github.io/posts/mac-app/</guid>
+        <description>Jnds Web Site https://jndsss.github.io/posts/mac-app/ -&lt;p&gt;&lt;em&gt;EasyFind&lt;/em&gt;：mac上的everything，简简单单。因为只是搜索文件名，所以比spotlight看起来要清爽很多。毕竟有时候，我们只是想快速找到含某个关键字的文件。相比everything，因为mac文件系统本身的限制，EasyFind的搜索速度没有那么快，但在可以接受的范围内。这款软件的开发公司是开发过DEVONthink的DEVONtechnologies
+下载地址：https://download.devontechnologies.com/download/freeware/easyfind/5.0.2/EasyFind.app.zip
+&lt;img src=&#34;https://jndsss.github.io/media/easy_find.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Mos&lt;/em&gt;: mac的触摸板非常好用，但是我还是要用鼠标，这时候就需要mos这款开源软件了。我转述一下软件作者的原话：“一个用于在MacOS上平滑你的鼠标滚动效果的小工具, 让你的滚轮爽如触控板”。确实，mos开启之后，默默无闻在后台工作，你几乎感受不到他的存在。但是如果你把mos关掉，你就会发现，你不认识你的鼠标，他滚动页面起来会让你想把他扔掉。是的，就如同你适应了iphone pro的高刷屏之后，你就再也回不去了。
+下载地址：https://github.com/Caldis/Mos/releases
+&lt;img src=&#34;https://jndsss.github.io/media/mos.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Bing Wallpaper&lt;/em&gt;：是的，你没看错。我在mac的生态下，推荐了一款微软的软件。必应作为一款搜素引擎，最棒的功能是每日一图。微软很早也响应大家的喜好，推出了专供 Windows 桌面使用的工具：Bing Wallpaper，它会使用必应图片，每日更新你的 Windows 桌面壁纸。现在，Bing Wallpaper出了mac版本，我超爱的。、
+下载地址：&lt;a href=&#34;&#34;&gt;https://bingwallpaper.microsoft.com/mac/en/bing/bing-wallpaper/?brand=bing&amp;amp;var=1&amp;amp;m=1&lt;/a&gt;
+&lt;img src=&#34;https://jndsss.github.io/media/bing_wallpaper.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+- https://jndsss.github.io/posts/mac-app/ - This is a customized copyright.</description>
+        </item>
     
     
     
